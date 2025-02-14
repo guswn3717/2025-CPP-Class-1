@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\25cppcls\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB097AD1-8EEC-44D9-920A-8CF3E80C0AAF}|25cppcls\\25cppcls.vcxproj|C:\\Users\\user\\source\\repos\\25cppcls\\25cppcls\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FB097AD1-8EEC-44D9-920A-8CF3E80C0AAF}|25cppcls\\25cppcls.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB097AD1-8EEC-44D9-920A-8CF3E80C0AAF}|25cppcls\\25cppcls.vcxproj|solutionrelative:25cppcls\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\25cppcls\\25cppcls\\FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp",
               "RelativeDocumentMoniker": "25cppcls\\FileName.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\25cppcls\\25cppcls\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp",
               "RelativeToolTip": "25cppcls\\FileName.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwDYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-13T09:07:02.982Z",
               "EditorCaption": ""
