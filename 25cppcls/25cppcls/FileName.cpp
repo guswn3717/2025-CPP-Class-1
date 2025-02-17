@@ -102,6 +102,53 @@ public:
 			currentNode = currentNode->next;
 		}
 	}
+
+	void pop_back()
+	{
+		if (head == nullptr)
+		{
+			cout << "Linked List is Empty" << endl;
+		}
+		else
+		{
+			Node* deleteNode = head;
+			Node* previousNode = nullptr;
+
+			if (size == 1)
+			{
+				head == deleteNode->next;
+
+				delete deleteNode;
+			}
+			else
+			{
+				while (deleteNode->next != nullptr)
+				{
+					previousNode = deleteNode;
+					deleteNode = deleteNode->next;
+				}
+
+				previousNode->next = deleteNode->next;
+
+				delete deleteNode;
+			}
+
+			size--;
+		}
+	}
+
+	const int& Size()
+	{
+		return size;
+	}
+
+	~SingleLinkedList()
+	{
+		while (head != nullptr)
+		{
+			pop_front();
+		}
+	}
 };
 
 int main()
@@ -114,13 +161,22 @@ int main()
 	singleLinkedList.push_back(5);
 	singleLinkedList.push_back(10);
 
-	//singleLinkedList.pop_front();
-	//singleLinkedList.pop_front();
-	//singleLinkedList.pop_front();
-	//singleLinkedList.pop_front();
-	//singleLinkedList.pop_front();
+	singleLinkedList.pop_back();
+
+	cout << "Linked List is Size : " << singleLinkedList.Size() << endl;
+
+	singleLinkedList.pop_back();
+	singleLinkedList.pop_back();
+	singleLinkedList.pop_back();
+	singleLinkedList.pop_back();
 
 	singleLinkedList.show();
+
+	//singleLinkedList.pop_front();
+	//singleLinkedList.pop_front();
+	//singleLinkedList.pop_front();
+	//singleLinkedList.pop_front();
+	//singleLinkedList.pop_front();
 
 	return 0;
 }
