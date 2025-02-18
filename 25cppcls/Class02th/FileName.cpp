@@ -1,42 +1,138 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-template<typename T>
+template <typename T>
 class DoubleLinkedList
 {
 private:
-	struct  Node
-	{
-		T data;
-		Node* previous;
-		Node* next;
-	};
+    struct Node
+    {
+        T data;
+        Node* next;
+        Node* previous;
+    };
 
-	Node* head;
-	Node* tail;
+    Node* head;
+    Node* tail;
 
-	int size;
+    int size;
 public:
+    DoubleLinkedList()
+    {
+        head = nullptr;
+        tail = nullptr;
+        size = 0;
+    }
 
-	DoubleLinkedList()
-	{
-		head = nullptr;
-		tail = nullptr;
-		size = 0;
-	}
+    void push_front(T data)
+    {
+        Node* newNode = new Node;
 
-	void push_front(T data)
-	{
+        newNode->data = data;
+        newNode->next = nullptr;
+        newNode->previous = nullptr;
 
-	}
+        if (head == nullptr)
+        {
+            head = newNode;
+            tail = newNode;
+        }
+        else
+        {
+            head->previous = newNode;
+            newNode->next = head;
+
+            head = newNode;
+        }
+
+        size++;
+    }
+
+    void show()
+    {
+        Node* currentNode = head;
+
+        while (currentNode != nullptr)
+        {
+            cout << currentNode->data << " ";
+
+            currentNode = currentNode->next;
+        }
+    }
+
+    void pop_fornt()
+    {
+        if (head == nullptr)
+        {
+            cout << "Linked List is Empty" << endl;
+        }
+        else
+        {
+            Node* deleteNode = head;
+
+            if (head == tail)
+            {
+                head = nullptr;
+                tail = nullptr;
+            }
+            else
+            {
+                deleteNode->next->previous = nullptr;
+
+                head = head->next;
+            }
+
+            delete deleteNode;
+
+            size--;
+        }
+    }
+
+    void push_back(T data)
+    {
+        Node* newNode = new Node;
+
+        newNode->data = data;
+        newNode->next = nullptr;
+        newNode->previous = nullptr;
+
+        if (tail == nullptr)
+        {
+            head = newNode;
+            tail = newNode;
+        }
+        else
+        {
+            tail->next = newNode;
+            newNode->previous = tail;
+
+            tail = newNode;
+        }
+
+        size++;
+    }
+
+    ~DoubleLinkedList()
+    {
+        while (head != nullptr)
+        {
+            pop_fornt();
+        }
+    }
 };
 
 int main()
 {
-#pragma region 
+    DoubleLinkedList<int> doubleLinkedList;
 
-#pragma endregion
+    doubleLinkedList.push_front(30);
+    doubleLinkedList.push_front(20);
+    doubleLinkedList.push_front(10);
 
-	return 0;
+    
+
+    doubleLinkedList.show();
+
+    return 0;
 }
