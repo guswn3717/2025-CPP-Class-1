@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E29DDAC-D2D5-44CC-B2A4-3B6E5038D631}|Class02th\\Class02th.vcxproj|C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class02th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{525ECDFC-7774-4054-8407-7BD40A409542}|Class03th\\Class03th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class03th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{525ECDFC-7774-4054-8407-7BD40A409542}|Class03th\\Class03th.vcxproj|solutionrelative:Class03th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E29DDAC-D2D5-44CC-B2A4-3B6E5038D631}|Class02th\\Class02th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class02th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E29DDAC-D2D5-44CC-B2A4-3B6E5038D631}|Class02th\\Class02th.vcxproj|solutionrelative:Class02th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB097AD1-8EEC-44D9-920A-8CF3E80C0AAF}|25cppcls\\25cppcls.vcxproj|C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FB097AD1-8EEC-44D9-920A-8CF3E80C0AAF}|25cppcls\\25cppcls.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB097AD1-8EEC-44D9-920A-8CF3E80C0AAF}|25cppcls\\25cppcls.vcxproj|solutionrelative:25cppcls\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,22 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class02th\\FileName.cpp",
-              "RelativeDocumentMoniker": "Class02th\\FileName.cpp",
-              "ToolTip": "C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class02th\\FileName.cpp",
-              "RelativeToolTip": "Class02th\\FileName.cpp",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAUwG4AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class03th\\FileName.cpp",
+              "RelativeDocumentMoniker": "Class03th\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class03th\\FileName.cpp",
+              "RelativeToolTip": "Class03th\\FileName.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T10:12:52.289Z",
+              "WhenOpened": "2025-02-19T09:39:30.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class02th\\FileName.cpp",
+              "RelativeDocumentMoniker": "Class02th\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class02th\\FileName.cpp",
+              "RelativeToolTip": "Class02th\\FileName.cpp",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAUwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T10:12:52.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp",
               "RelativeDocumentMoniker": "25cppcls\\FileName.cpp",
-              "ToolTip": "C:\\Users\\OFFICE\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\25cppcls\\FileName.cpp",
               "RelativeToolTip": "25cppcls\\FileName.cpp",
               "ViewState": "AgIAAI8AAAAAAAAAAAAQwIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -49,18 +49,6 @@ public:
         size++;
     }
 
-    void show()
-    {
-        Node* currentNode = head;
-
-        while (currentNode != nullptr)
-        {
-            cout << currentNode->data << " ";
-
-            currentNode = currentNode->next;
-        }
-    }
-
     void pop_fornt()
     {
         if (head == nullptr)
@@ -112,6 +100,51 @@ public:
 
         size++;
     }
+    
+    void pop_back()
+    {
+        if (tail == nullptr)
+        {
+            cout << "Linked List is Empty" << endl;
+        }
+        else
+        {
+            Node* deleteNode = tail;
+
+            if (head == tail)
+            {
+                head = nullptr;
+                tail = nullptr;
+            }
+            else
+            {
+                tail->previous->next;
+
+                tail = tail->previous;
+            }
+
+            delete deleteNode;
+
+            size--;
+        }
+    }
+
+    const int& Size()
+    {
+        return size;
+    }
+
+    void show()
+    {
+        Node* currentNode = head;
+
+        while (currentNode != nullptr)
+        {
+            cout << currentNode->data << " ";
+
+            currentNode = currentNode->next;
+        }
+    }
 
     ~DoubleLinkedList()
     {
@@ -130,7 +163,9 @@ int main()
     doubleLinkedList.push_front(20);
     doubleLinkedList.push_front(10);
 
-    
+    doubleLinkedList.pop_back();
+
+    cout << "Linked List is Size : " << doubleLinkedList.Size() << endl; 
 
     doubleLinkedList.show();
 

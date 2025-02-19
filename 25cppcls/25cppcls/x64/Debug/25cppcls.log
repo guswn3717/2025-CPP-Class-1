@@ -1,13 +1,14 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(25cppcls.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
   FileName.cpp
-C:\Users\OFFICE\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(119,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-      C:\Users\OFFICE\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(119,10):
+C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(119,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+      C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(119,10):
       템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\OFFICE\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(156,24):
+          C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(156,24):
           컴파일되는 클래스 템플릿 인스턴스화 'SingleLinkedList<int>'에 대한 참조를 확인하세요.
-          C:\Users\OFFICE\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(106,7):
+          C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(106,7):
           클래스 템플릿 멤버 함수 'void SingleLinkedList<int>::pop_back(void)'을(를) 컴파일하는 중입니다.
-              C:\Users\OFFICE\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(164,27):
+              C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\25cppcls\FileName.cpp(164,27):
               'main'에서 'SingleLinkedList<int>::pop_back'에 대한 첫 번째 참조를 확인하세요.
   
-  25cppcls.vcxproj -> C:\Users\OFFICE\Documents\GitHub\2025-CPP-Class-1\25cppcls\x64\Debug\Class01th.exe
+  LINK : C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\x64\Debug\Class01th.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  25cppcls.vcxproj -> C:\Users\user\Documents\GitHub\2025-CPP-Class-1\25cppcls\x64\Debug\Class01th.exe
