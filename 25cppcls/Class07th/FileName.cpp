@@ -89,7 +89,10 @@ public:
 
 	~Vector()
 	{
-		if(container)
+		if (container != nullptr)
+		{
+			delete[] container;
+		}
 	}
 };
 
