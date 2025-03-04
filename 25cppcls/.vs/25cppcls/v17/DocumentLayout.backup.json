@@ -3,12 +3,21 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{0291020E-427D-4F74-9348-197E675059A2}|Class07th\\Class07th.vcxproj|D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class07th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0291020E-427D-4F74-9348-197E675059A2}|Class07th\\Class07th.vcxproj|solutionrelative:Class07th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D0A4ADB-F7AC-4152-AEF5-49E608153739}|Class08th\\Class08th.vcxproj|D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class08th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7D0A4ADB-F7AC-4152-AEF5-49E608153739}|Class08th\\Class08th.vcxproj|solutionrelative:Class08th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{7D0A4ADB-F7AC-4152-AEF5-49E608153739}|Class08th\\Class08th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class08th\\class08th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D0A4ADB-F7AC-4152-AEF5-49E608153739}|Class08th\\Class08th.vcxproj|solutionrelative:Class08th\\class08th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0291020E-427D-4F74-9348-197E675059A2}|Class07th\\Class07th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class07th\\class07th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0291020E-427D-4F74-9348-197E675059A2}|Class07th\\Class07th.vcxproj|solutionrelative:Class07th\\class07th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> 2906718e9120d14e307e81ec7a379d4c8e74ab37
     }
   ],
   "DocumentGroupContainers": [
@@ -21,6 +30,7 @@
           "SelectedChildIndex": 0,
           "Children": [
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
@@ -42,6 +52,33 @@
               "ToolTip": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class08th\\FileName.cpp",
               "RelativeToolTip": "Class08th\\FileName.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAQwEIAAAAPAAAAAAAAAA==",
+=======
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class08th.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class08th\\class08th.cpp",
+              "RelativeDocumentMoniker": "Class08th\\class08th.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class08th\\class08th.cpp",
+              "RelativeToolTip": "Class08th\\class08th.cpp",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:05:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "class07th.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class07th\\class07th.cpp",
+              "RelativeDocumentMoniker": "Class07th\\class07th.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class07th\\class07th.cpp",
+              "RelativeToolTip": "Class07th\\class07th.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAAWAAAAAAAAAA==",
+>>>>>>> 2906718e9120d14e307e81ec7a379d4c8e74ab37
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-27T09:10:17.838Z"
             }
