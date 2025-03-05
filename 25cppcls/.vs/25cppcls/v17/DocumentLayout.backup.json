@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39D5257B-6C95-4270-9BAD-D2B5493AA271}|Class09th\\Class09th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class09th\\Class09th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39D5257B-6C95-4270-9BAD-D2B5493AA271}|Class09th\\Class09th.vcxproj|solutionrelative:Class09th\\Class09th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A7AB8F9-0944-4DBE-8AC5-A440041BC25C}|Class10th\\Class10th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A7AB8F9-0944-4DBE-8AC5-A440041BC25C}|Class10th\\Class10th.vcxproj|solutionrelative:Class10th\\class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,37 +25,17 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-<<<<<<< Updated upstream
-=======
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "class08th.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class08th\\class08th.cpp",
-              "RelativeDocumentMoniker": "Class08th\\class08th.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class08th\\class08th.cpp",
-              "RelativeToolTip": "Class08th\\class08th.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwFkAAAAFAAAAAAAAAA==",
+              "Title": "class10th.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
+              "RelativeDocumentMoniker": "Class10th\\class10th.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
+              "RelativeToolTip": "Class10th\\class10th.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T09:05:27.121Z",
+              "WhenOpened": "2025-03-05T10:17:47.21Z",
               "EditorCaption": ""
-            },
-            {
->>>>>>> Stashed changes
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class09th.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class09th\\Class09th.cpp",
-              "RelativeDocumentMoniker": "Class09th\\Class09th.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class09th\\Class09th.cpp",
-              "RelativeToolTip": "Class09th\\Class09th.cpp",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAowHsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-<<<<<<< Updated upstream
-              "WhenOpened": "2025-03-05T07:54:13.166Z",
-              "EditorCaption": ""
-=======
-              "WhenOpened": "2025-02-25T10:19:07.908Z"
->>>>>>> Stashed changes
             }
           ]
         }
