@@ -72,7 +72,7 @@ public:
         // 해시 함수를 통해서 값을 받는 임시 변수
         int hashIndex = HashFunction(key);
 
-        // 새로운 노드를 생성합니다.
+        // 새로운 노드를 생성합니다
         Node* newNode = CreateNode(key, value);
 
         //노드가 한개라도 존재하지않는다면
