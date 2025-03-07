@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC78F933-17BD-43E9-9D00-04F72B903FEA}|Class00th\\Class00th.vcxproj|D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class00th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC78F933-17BD-43E9-9D00-04F72B903FEA}|Class00th\\Class00th.vcxproj|solutionrelative:Class00th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E1EBA3F-2C39-46A9-8727-2C8E1B33212B}|Class11th\\Class11th.vcxproj|D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6E1EBA3F-2C39-46A9-8727-2C8E1B33212B}|Class11th\\Class11th.vcxproj|solutionrelative:Class11th\\class11th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class00th\\FileName.cpp",
+              "RelativeDocumentMoniker": "Class00th\\FileName.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class00th\\FileName.cpp",
+              "RelativeToolTip": "Class00th\\FileName.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T05:53:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "class11th.cpp",
               "DocumentMoniker": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp",
               "RelativeDocumentMoniker": "Class11th\\class11th.cpp",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "class10th.cpp",
               "DocumentMoniker": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
               "RelativeDocumentMoniker": "Class10th\\class10th.cpp",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Class10th\\class10th.cpp",
               "ViewState": "AgIAAHwAAAAAAAAAAAAAAFoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-05T10:17:47.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:17:47.21Z"
             }
           ]
         }
