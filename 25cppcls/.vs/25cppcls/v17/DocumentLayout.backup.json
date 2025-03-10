@@ -1,13 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E1EBA3F-2C39-46A9-8727-2C8E1B33212B}|Class11th\\Class11th.vcxproj|D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\9cd4e08c-ba86-413d-9a38-b55a1fab788a_SBS-Game-Academy-main.zip.88a\\SBS-Game-Academy-main\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC78F933-17BD-43E9-9D00-04F72B903FEA}|Class00th\\Class00th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class00th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC78F933-17BD-43E9-9D00-04F72B903FEA}|Class00th\\Class00th.vcxproj|solutionrelative:Class00th\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1EBA3F-2C39-46A9-8727-2C8E1B33212B}|Class11th\\Class11th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6E1EBA3F-2C39-46A9-8727-2C8E1B33212B}|Class11th\\Class11th.vcxproj|solutionrelative:Class11th\\class11th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A7AB8F9-0944-4DBE-8AC5-A440041BC25C}|Class10th\\Class10th.vcxproj|D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4A7AB8F9-0944-4DBE-8AC5-A440041BC25C}|Class10th\\Class10th.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A7AB8F9-0944-4DBE-8AC5-A440041BC25C}|Class10th\\Class10th.vcxproj|solutionrelative:Class10th\\class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,37 +29,61 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "class11th.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp",
-              "RelativeDocumentMoniker": "Class11th\\class11th.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp",
-              "RelativeToolTip": "Class11th\\class11th.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\9cd4e08c-ba86-413d-9a38-b55a1fab788a_SBS-Game-Academy-main.zip.88a\\SBS-Game-Academy-main\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\9cd4e08c-ba86-413d-9a38-b55a1fab788a_SBS-Game-Academy-main.zip.88a\\SBS-Game-Academy-main\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\9cd4e08c-ba86-413d-9a38-b55a1fab788a_SBS-Game-Academy-main.zip.88a\\SBS-Game-Academy-main\\Program\\Program.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\9cd4e08c-ba86-413d-9a38-b55a1fab788a_SBS-Game-Academy-main.zip.88a\\SBS-Game-Academy-main\\Program\\Program.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T05:19:38.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T04:45:58.721Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class00th\\FileName.cpp",
+              "RelativeDocumentMoniker": "Class00th\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class00th\\FileName.cpp",
+              "RelativeToolTip": "Class00th\\FileName.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T05:53:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class11th.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp",
+              "RelativeDocumentMoniker": "Class11th\\class11th.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class11th\\class11th.cpp",
+              "RelativeToolTip": "Class11th\\class11th.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T05:19:38.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "class10th.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
               "RelativeDocumentMoniker": "Class10th\\class10th.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025-CPP-Class-1\\25cppcls\\Class10th\\class10th.cpp",
               "RelativeToolTip": "Class10th\\class10th.cpp",
               "ViewState": "AgIAAHwAAAAAAAAAAAAAAFoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-05T10:17:47.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:17:47.21Z"
             }
           ]
         }
